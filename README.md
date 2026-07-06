@@ -12,12 +12,32 @@ This repository contains my work from the 16-week AI & Machine Learning course o
 
 ```
 📦 pluto-academy-ai-ml-course
+pluto-academy-ai-ml-course/
+│
+├── README.md
+├── WEEK-01/
+├── WEEK-02/
+├── WEEK-03/
+├── WEEK-04/
+├── WEEK-05/
+├── WEEK-06/
+├── WEEK-07/
+├── WEEK-08/
+├── WEEK-09/
+├── WEEK-10/
+├── WEEK-11/
+├── WEEK-12/
+├── WEEK-13/
+├── WEEK-14/
+├── WEEK-15/
+└── WEEK-16/
+
+Week-Format/
+│
 ├── notebooks/
 ├── assignments/
 ├── datasets/
-├── projects/
-├── images/
-└── README.md
+└── images/
 ```
 
 📚 Course Topics
